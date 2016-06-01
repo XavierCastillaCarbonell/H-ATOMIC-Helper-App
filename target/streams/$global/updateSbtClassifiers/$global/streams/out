@@ -153,7 +153,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.11/jline-2.11.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.11/jline-2.11.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/jline/jline/2.11/jline-2.11.pom
-[debug] 	[SUCCESSFUL ] jline#jline;2.11!jline.pom(pom.original) (356ms)
+[debug] 	[SUCCESSFUL ] jline#jline;2.11!jline.pom(pom.original) (379ms)
 [info] Resolving org.sonatype.oss#oss-parent;7 ...
 [debug] sbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;7 {}
 [debug] sbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;7
@@ -723,9 +723,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 4983ms :: artifacts dl 48ms
+[debug] :: resolution report :: resolve 5032ms :: artifacts dl 21ms
 [debug] 	report for default#h-atomic_helperapp$sbt_2.11;0.1 default produced in /home/xavi/H-ATOMIC_HelperApp/target/resolution-cache/reports/default-h-atomic_helperapp$sbt_2.11-default.xml
-[debug] 	resolve done (4983ms resolve - 48ms download)
+[debug] 	resolve done (5032ms resolve - 21ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#h-atomic_helperapp$sources_2.11;0.1
 [debug] 	confs: [default]
@@ -1089,6 +1089,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 235ms :: artifacts dl 33ms
+[debug] :: resolution report :: resolve 105ms :: artifacts dl 20ms
 [debug] 	report for default#h-atomic_helperapp$sources_2.11;0.1 default produced in /home/xavi/H-ATOMIC_HelperApp/target/resolution-cache/reports/default-h-atomic_helperapp$sources_2.11-default.xml
-[debug] 	resolve done (235ms resolve - 33ms download)
+[debug] 	resolve done (105ms resolve - 20ms download)

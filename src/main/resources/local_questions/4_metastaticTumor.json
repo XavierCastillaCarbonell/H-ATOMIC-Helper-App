@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "position": 10,
+      "question": "Known primary cancer?",
+      "acronym": "KPC",
+      "frequency": 0,
+      "blockName": "metastaticTumor"
+    },
+    {
+      "position": 11,
+      "question": "Only one solid lesion?",
+      "acronym": "OSL",
+      "frequency": 0,
+      "blockName": "metastaticTumor"
+    },
+    {
+      "position": 12,
+      "question": "More than one lesion?",
+      "acronym": "ML",
+      "frequency": 0,
+      "blockName": "metastaticTumor"
+    }
+  ]
+}

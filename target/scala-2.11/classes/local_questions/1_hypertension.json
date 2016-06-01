@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "position": 1,
+      "question": "Prior Arterial Hypertension?",
+      "acronym": "PAH",
+      "frequency": 0,
+      "blockName": "hypertension"
+    },
+    {
+      "position": 2,
+      "question": "Evidence of arterial Hypertension?",
+      "acronym": "EAH",
+      "frequency": 0,
+      "blockName": "hypertension"
+    },
+    {
+      "position": 3,
+      "question": "Admission Blood Pressure greater than 140/90mmHg?",
+      "acronym": "ABP",
+      "frequency": 0,
+      "blockName": "hypertension"
+    },
+    {
+      "position": 4,
+      "question": "Deep Location?",
+      "acronym": "DL",
+      "frequency": 0,
+      "blockName": "hypertension"
+    }
+  ]
+}

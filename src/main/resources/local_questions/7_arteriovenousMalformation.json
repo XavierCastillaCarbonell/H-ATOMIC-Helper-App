@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "position": 1,
+      "question": "Angiographic demonstration?",
+      "acronym": "AD",
+      "frequency": 10,
+      "blockName": "arteriovenousMalformation"
+    },
+    {
+      "position": 2,
+      "question": "Indirect evidence (neuroimaging)?",
+      "acronym": "IE",
+      "frequency": 7,
+      "blockName": "arteriovenousMalformation"
+    }
+  ]
+}

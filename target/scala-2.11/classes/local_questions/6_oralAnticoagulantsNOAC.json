@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "position": 1,
+      "question": "The patient is receiving a new oral anticoagulants (NOAC)?",
+      "acronym": "NOAC",
+      "frequency": 10,
+      "blockName": "oralAnticoagulantsNOAC"
+    },
+    {
+      "position": 2,
+      "question": "Blood coagulation?",
+      "acronym": "BCTA",
+      "frequency": 7,
+      "blockName": "oralAnticoagulantsNOAC"
+    }
+  ]
+}

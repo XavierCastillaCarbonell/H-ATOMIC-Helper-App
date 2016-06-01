@@ -4,7 +4,7 @@
 		module="h-atomic_helperapp$sbt_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20160410100750"
+		publication="20160525103236"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

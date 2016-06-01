@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "position": 5,
+      "question": "Is the patient older than 55 years?",
+      "acronym": "OT55",
+      "frequency": 0,
+      "blockName": "amyloidAngiopathy"
+    },
+    {
+      "position": 6,
+      "question": "Does the patient suffer an hemorrhage in the Frontal lobe?",
+      "acronym": "FLH",
+      "frequency": 0,
+      "blockName": "amyloidAngiopathy"
+    },
+    {
+      "position": 7,
+      "question": "Post morten analysis confirms siderosis presence?",
+      "acronym": "PMS",
+      "frequency": 0,
+      "blockName": "amyloidAngiopathy"
+    }
+  ]
+}

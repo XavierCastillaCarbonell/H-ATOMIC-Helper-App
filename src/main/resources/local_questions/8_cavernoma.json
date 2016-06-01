@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "position": 1,
+      "question": "MRI suggestive?",
+      "acronym": "MRI",
+      "frequency": 10,
+      "blockName": "cavernoma"
+    },
+    {
+      "position": 2,
+      "question": "MRI non conclusive but cavernoma is suspected?",
+      "acronym": "CS",
+      "frequency": 7,
+      "blockName": "cavernoma"
+    }
+  ]
+}

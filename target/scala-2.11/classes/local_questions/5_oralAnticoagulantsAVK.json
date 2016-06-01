@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "position": 1,
+      "question": "The patient is receiving antivitamin K (AVK)?",
+      "acronym": "AVK",
+      "frequency": 10,
+      "blockName": "oralAnticoagulantsAVK"
+    },
+    {
+      "position": 2,
+      "question": "INR greater than 2?",
+      "acronym": "INRGT2",
+      "frequency": 7,
+      "blockName": "oralAnticoagulantsAVK"
+    }
+  ]
+}

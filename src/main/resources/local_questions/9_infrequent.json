@@ -1,0 +1,11 @@
+{
+  "questions": [
+    {
+      "position": 1,
+      "question": "Is there any other known patology that may cause ICH?",
+      "acronym": "infrequent",
+      "frequency": 1,
+      "blockName": "infrequent"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "position": 8,
+      "question": "Suspicious Lesion?",
+      "acronym": "SL",
+      "frequency": 0,
+      "blockName": "primaryTumor"
+    },
+    {
+      "position": 9,
+      "question": "Positive primary biopsy?",
+      "acronym": "PB",
+      "frequency": 0,
+      "blockName": "primaryTumor"
+    }
+  ]
+}
